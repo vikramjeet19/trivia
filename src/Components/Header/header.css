@@ -1,0 +1,13 @@
+.header{
+    width:100%;
+    padding:10px 10px;
+    background-color:rgb(44, 43, 43);
+    text-align: center;
+    
+  }
+  .header-logo{
+    color:#fff;
+   
+    font-size:35px;
+    font-family:'Times New Roman", Times, serif'
+  }
